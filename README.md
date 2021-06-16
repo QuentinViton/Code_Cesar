@@ -1,5 +1,6 @@
 # Mini Projet Code Cesar
 par Quentin Viton et Louis Gambier
+LPRGI Promeo Beauvais
 
 Fonctionalités:
 
